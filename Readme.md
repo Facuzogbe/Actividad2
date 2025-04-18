@@ -1,4 +1,4 @@
-# Actividad 2 - Programación Visual
+# Actividad 2 - Programación Vanguardia
 
 Este proyecto es parte de la **Actividad 2** de la materia **Programación Visual**, desarrollado con **Java**, utilizando el gestor de dependencias **Maven** y el entorno de desarrollo **IntelliJ IDEA Community Edition**.
 
